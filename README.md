@@ -5,7 +5,7 @@ Simulator for MBC Survival Phase
 I made a practice tool for the survival phase of the MBC fight. Tried to make it as close as possible to the real thing. I will be adding debuffs in v2.0
 
 ## Controls:
-Movement: [WASD]
-Rotate Screen: [QE]
-Reset: [R]
+Movement: [WASD]\n
+Rotate Screen: [QE]\n
+Reset: [R]\n
 Menu: [M]
